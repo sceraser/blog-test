@@ -17,4 +17,4 @@ public void Main(String args[]){
 ```
 
 给你展示一张图片！
-![图片](1.jpg)
+![图片](2.png)
