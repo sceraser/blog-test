@@ -15,3 +15,6 @@ public void Main(String args[]){
     System.out.println("I love you");
 }
 ```
+
+给你展示一张图片！
+![图片](1.jpg)
